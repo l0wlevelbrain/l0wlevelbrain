@@ -27,6 +27,7 @@ quiser bater um papo:
 - studying fundamentals of japanese language
 - studying computer architecture
 - studying web pentest
+- developing my website(portfolio and blog)
 
 #
 
