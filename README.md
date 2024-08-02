@@ -22,12 +22,12 @@ quiser bater um papo:
 #
 
 **what am i doing/studying:**
-- 2d platform game with pygame( python framework)
-- improving english
-- studying fundamentals of japanese language
-- studying computer architecture
-- studying web pentest
+- 2d game with pygame( python framework)
+- computer architecture
+- math and physics for gamedev
 - developing my website(portfolio and blog)
+- improving english 🇺🇸
+- fundamentals of japanese language 🇯🇵
 
 #
 
