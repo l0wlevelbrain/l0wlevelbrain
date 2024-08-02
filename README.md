@@ -25,7 +25,6 @@ quiser bater um papo:
 - 2d game with pygame( python framework)
 - computer architecture
 - math and physics for gamedev
-- developing my website(portfolio and blog)
 - improving english 🇺🇸
 - fundamentals of japanese language 🇯🇵
 
