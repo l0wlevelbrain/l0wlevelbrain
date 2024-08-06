@@ -17,12 +17,11 @@ quiser bater um papo:
 - game development
 - low level programming
 - reverse engineering
-- infosec
 
 #
 
 **what am i doing/studying:**
-- 2d game with pygame( python framework)
+- data structures
 - computer architecture
 - math and physics for gamedev
 - improving english 🇺🇸
