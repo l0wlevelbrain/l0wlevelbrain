@@ -41,7 +41,6 @@ quiser bater um papo:
  - c/c++
  - python
  - godot game engine
- - unreal engine
  - visual studio code
  - visual studio
  - linux terminal
