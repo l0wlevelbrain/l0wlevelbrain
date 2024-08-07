@@ -32,3 +32,17 @@ quiser bater um papo:
 **projects that i want to do**:
 - socket programming with C language
 - programming for retro videogames(probably i'll start with Atari 2600 - MOS 6502)
+
+#
+
+**main tools**:
+ - rust programming language
+ - c/c++
+ - python
+ - godot game engine
+ - unreal engine
+ - visual studio code
+ - visual studio
+ - linux terminal
+ - windows powershell
+
