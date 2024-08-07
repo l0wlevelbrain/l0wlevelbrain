@@ -17,6 +17,7 @@ quiser bater um papo:
 - game development
 - low level programming
 - reverse engineering
+- software development
 
 #
 
