@@ -17,14 +17,14 @@ quiser bater um papo:
 - game development
 - low level programming
 - reverse engineering
-- software development
+- pentest
 
 #
 
 **what am i doing/studying:**
 - data structures
-- computer architecture
-- math and physics for gamedev
+- exploit development
+- math(linear algebra and cryptography)
 - improving english 🇺🇸
 - fundamentals of japanese language 🇯🇵
 
