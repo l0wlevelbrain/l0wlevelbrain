@@ -8,7 +8,7 @@ Nunca foi senão príncipe — todos eles príncipes — na vida..."***
 
 quiser bater um papo: 
 
-![discord](https://img.shields.io/badge/Discord-kotaro81-purple)
+![discord](https://img.shields.io/badge/Discord-l0wlevelbrain-purple)
 
 
 #
