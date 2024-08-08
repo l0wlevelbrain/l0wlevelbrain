@@ -23,7 +23,7 @@ quiser bater um papo:
 
 **what am i doing/studying:**
 - data structures
-- exploit development
+- binary exploitation
 - math(linear algebra and cryptography)
 - improving english 🇺🇸
 - fundamentals of japanese language 🇯🇵
