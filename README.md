@@ -1,8 +1,9 @@
 72 101 108 108 111
 
-***"Toda a gente que eu conheço e que fala comigo  
-Nunca teve um ato ridículo, nunca sofreu enxovalho,  
-Nunca foi senão príncipe — todos eles príncipes — na vida..."***
+***"Perene flui a interminável hora</br>
+Que nos confessa nulos. No mesmo hausto</br>
+Em que vivemos, morreremos.Colhe</br> 
+O dia, porque és ele."***
 
 ![ps2-rsod](ps2-red-screen-of-death.gif)
 
