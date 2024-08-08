@@ -25,10 +25,6 @@ quiser bater um papo:
 **what am i doing/studying:**
 - data structures
 - binary exploitation
-- math(linear algebra and cryptography)
-- improving english 🇺🇸
-- fundamentals of japanese language 🇯🇵
-
 #
 
 **projects that i want to do**:
