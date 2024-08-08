@@ -2,7 +2,7 @@
 
 ***"Perene flui a interminável hora</br>
 Que nos confessa nulos. No mesmo hausto</br>
-Em que vivemos, morreremos.Colhe</br> 
+Em que vivemos, morreremos. Colhe</br> 
 O dia, porque és ele."***
 
 ![ps2-rsod](ps2-red-screen-of-death.gif)
