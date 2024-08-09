@@ -33,5 +33,10 @@ quiser bater um papo:
 - socket programming with C language
 - programming for retro videogames(probably i'll start with Atari 2600 - MOS 6502)
 
+#
+***"Do you believe in heroes?"***
+
+
+
 
 
