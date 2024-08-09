@@ -22,9 +22,11 @@ quiser bater um papo:
 
 #
 
-**what am i doing/studying:**
+**what am i studying:**
 - data structures
-- binary exploitation
+- reverse engineering fundamentals(computer architecture,asm & C)
+- pentest for web applications
+  
 #
 
 **projects that i want to do**:
